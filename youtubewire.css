@@ -1,0 +1,45 @@
+img{
+width: 25%;
+
+}
+input{
+	font-size: 20px;
+	width: 300px;
+}
+
+#yt-wrapper{
+
+
+}
+
+#left-header {
+height: 30%;
+width: 25%;
+background-color: red;
+float: left;
+
+
+}
+
+#middle-header{
+height: 30%;
+width: 50%;
+float: left;
+
+
+}
+
+#search-bar{
+
+
+}
+
+#right-header{
+height: 41px;
+width: 25%;
+background-color: green;
+float: left;
+
+
+
+}
